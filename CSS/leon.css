@@ -184,7 +184,7 @@ header .links ul li:not(:last-child) a {
 /* <!-- End header --> */
  /* <!-- Start Landing --> */
  .Landing{
-  background-image: url(../Image/Mountain\ black\ and\ white.jpg);
+  background-image: url(..\images\Mountain.jpg);
   background-size: cover;
   height: calc(100vh - 36.8px);
   position: relative;
